@@ -1,5 +1,5 @@
 
-<h1> Hi 👋 , welcome to  my repository ! </h1>
+<h1 align="center"> Hi 👋 , welcome to  my repository ! </h1>
 
 <p>I'm @edijavier99, an avid young tech enthusiast who thrives in the dynamic world of technology, driven by a never-ending quest for knowledge. Allow me to introduce myself as a Full Stack Developer on an exciting journey to explore and innovate in the realm of coding and software development. </p>
 
