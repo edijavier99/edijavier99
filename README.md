@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @edijavier99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-edijavier99/edijavier99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1> Hi 👋 , welcome to  my repository ! </h1>
 
 <p>I'm @edijavier99, an avid young tech enthusiast who thrives in the dynamic world of technology, driven by a never-ending quest for knowledge. Allow me to introduce myself as a Full Stack Developer on an exciting journey to explore and innovate in the realm of coding and software development. </p>
