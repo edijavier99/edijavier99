@@ -2,19 +2,13 @@
 
 <h1 align="center"> Hi 👋 , welcome to  my repository ! </h1>
 
+<p>Hey, I'm Edison Cañizares, a young tech enthusiast diving headfirst into the exciting world of coding and software development. I love the creative puzzle-solving aspect of being a developer, where I get to turn ideas into practical applications that people can use and can solve real problems.</p>
 
-<p>I'm @edijavier99, an avid young tech enthusiast who thrives in the dynamic world of technology, driven by a never-ending quest for knowledge. Allow me to introduce myself as a Full Stack Developer on an exciting journey to explore and innovate in the realm of coding and software development. </p>
+<h2>About Me</h2>
 
+<p>I'm a creative and curious individual who found his passion in programming. Seeing my ideas come to life as functional applications fascinates me, especially envisioning the endless possibilities and future features technology can bring. I'm dedicated, hardworking, and thrive on problem-solving challenges. Taking ownership of my projects, I strive daily to improve personally and professionally.</p>
+Along this journey, I've learned that self-learning is what truly makes the difference. It's essential to me, and I always strive to pick up new projects or features to learn from. Here, you'll find some interesting snippets of my journey, along with client projects developed as a freelancer.
 
-<h2>About me </h2>
-
-
-<p>As a Full Stack Developer, I thrive on the blend of creativity and logic that programming offers. I find joy in crafting elegant solutions to complex problems and turning ideas into functional, user-friendly applications. Whether it's front-end web development to create stunning user interfaces or diving deep into backend systems to ensure everything runs smoothly, I'm always up for the challenge.</p>
-
-<h2>My passion</h2>
-
-
-<p> I'm deeply passionate about the boundless opportunities that arise when technology and innovation come together. I'm constantly on the lookout for the latest trends and emerging technologies, wistful to experiment and apply them to real-world projects. I believe that adaptability and staying updated are keys to success in this ever-evolving field.</p>
 
 <h3 align="left"> 📫 Let's connect!</h3>
 
@@ -25,8 +19,5 @@
   <li>
     <p> https://www.linkedin.com/in/edison-cañizares-4a65b228b/</p>
   </li>
-  <li>
-    <p> https://www.instagram.com/edii_javiier/</p>
-  </li>
 </ul>
-<p> Let's embark on this coding adventure together, explore new horizons, and make a positive impact on the world through technology. Looking forward to connecting with like-minded individuals and companies and creating some remarkable projects along the way! 🚀🌟</p>
+<p>Looking forward to connecting with like-minded individuals and companies and creating some remarkable projects along the way! 🚀🌟</p>
