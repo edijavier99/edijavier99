@@ -9,6 +9,14 @@
 <p>I'm a creative and curious individual who found his passion in programming. Seeing my ideas come to life as functional applications fascinates me, especially envisioning the endless possibilities and future features technology can bring. I'm dedicated, hardworking, and thrive on problem-solving challenges. Taking ownership of my projects, I strive daily to improve personally and professionally.</p>
 Along this journey, I've learned that self-learning is what truly makes the difference. It's essential to me, and I always strive to pick up new projects or features to learn from. Here, you'll find some interesting snippets of my journey, along with client projects developed as a freelancer.
 
+<h2>Tech Stack</h2> 
+<ul> 
+  <li><strong>Languages:</strong> Python, JavaScript, HTML, CSS</li> 
+  <li><strong>Frameworks and Libraries:</strong> Flask, Django, Django REST Framework, React, Bootstrap, Tailwind</li>
+  <li><strong>Databases:</strong> MySQL, PostgreSQL</li> 
+  <li><strong>API Development:</strong> RESTful APIs</li> 
+  <li><strong>DevOps:</strong> Docker, AWS (ECR, EC2, RDS)</li> 
+</ul>
 
 <h3 align="left"> 📫 Let's connect!</h3>
 
